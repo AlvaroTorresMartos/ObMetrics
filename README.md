@@ -28,7 +28,7 @@ All supporting documentation, including the **User Manual** and **Tutorial**, ca
 The development team behind **ObMetrics** is committed to ongoing improvements and updates to the tool. We encourage users to report any issues or suggest new features via:
 
 1. **GitHub Issues**: Report bugs or feature requests directly on this repository.
-2. **Email**: Send detailed bug reports to [alvarotorres\@ugr.es](mailto:alvarotorres@ugr.es){.email}. Please include screenshots, descriptions of the issue, and any error messages encountered.
+2. **Email**: Send detailed bug reports to [alvarotorres\@ugr.es](mailto:alvarotorres@ugr.es). Please include screenshots, descriptions of the issue, and any error messages encountered.
 3. **Survey**: Help us improve by completing a brief [usability](<https://forms.gle/t87LZpL2hBX72uQK9>) survey after using the app.
 
 Contributions in the form of suggestions for new **reference tables**, additional **features**, or other **enhancements** are also welcome. If you are a healthcare professional or researcher with specific needs, we invite you to share your thoughts.
