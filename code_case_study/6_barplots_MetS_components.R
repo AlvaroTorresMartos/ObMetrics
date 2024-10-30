@@ -1,4 +1,4 @@
-# File: barplots_MetS_components.R
+# File: 6_barplots_MetS_components.R
 # Author: Álvaro Torres-Martos
 # Date: October 30, 2024
 # Purpose:
