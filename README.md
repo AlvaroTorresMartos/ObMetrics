@@ -22,7 +22,7 @@ Once the app is loaded, users can input clinical and anthropometric data, such a
 3.  Select the definition for Metabolic Syndrome.
 4.  View and download the results in a ready-to-use format.
 
-<img src="./img/screenshot.png" width="500"/>
+<img src="./img/screenshot.png" width="800"/>
 
 
 ## Documentation
