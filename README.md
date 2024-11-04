@@ -10,18 +10,18 @@ The **ObMetrics app** is accessible from any modern web browser. You can launch 
 
 -   [Click here to access ObMetrics.](https://coblabugr.shinyapps.io/obmetrics/)
 
-Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the criteria selected by the user.
+Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user.
 
 ## Quick Start
 
 1.  Open the web app using the link above.
 2.  Input patient data into the relevant fields.
-3.  Select the criterion for Metabolic Syndrome.
+3.  Select the definition for Metabolic Syndrome.
 4.  View and download the results in a ready-to-use format.
 
 ## Documentation
 
-All supporting documentation, including the **User Manual** and **Tutorial**, can be found within the application itself under the "About" section. The User Manual provides step-by-step instructions on how to input data and interpret the results, as well as explanations for the different **definitions** and **reference tables**.
+All supporting documentation, including the **User Manual** and **Tutorial**, can be found within the application itself under the "About" section. The User Guide provides step-by-step instructions on how to input data and interpret the results, as well as explanations for the different **definitions** and **reference tables**.
 
 ## Feedback and Contributions
 
