@@ -1,4 +1,5 @@
-# ObMetrics
+
+<img src="./img/ObMetrics.png" width="500"/>
 
 ## Overview
 
@@ -6,9 +7,11 @@ This repository provides essential information about ObMetrics, a free Shiny app
 
 ## Usage
 
-The **ObMetrics app** is accessible from any modern web browser. You can launch the application by clicking the following link:
+The **ObMetrics app** is accessible from any modern web browser. You can launch the application by clicking the following link or scanning the QR code:
 
 -   [Click here to access ObMetrics.](https://coblabugr.shinyapps.io/obmetrics/)
+
+<img src="./img/QR.png" width="250"/>
 
 Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user.
 
@@ -18,6 +21,9 @@ Once the app is loaded, users can input clinical and anthropometric data, such a
 2.  Input patient data into the relevant fields.
 3.  Select the definition for Metabolic Syndrome.
 4.  View and download the results in a ready-to-use format.
+
+<img src="./img/screenshot.png" width="500"/>
+
 
 ## Documentation
 
