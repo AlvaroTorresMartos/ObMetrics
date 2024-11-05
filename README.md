@@ -57,16 +57,17 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 ObMetrics was supported in part by Regional Government of Andalusia - Ministry of Economic Transformation, Industry, Knowledge and Universities (grant numbers P18-RT-2248 and B-CTS-536-UGR20), the Instituto de Salud Carlos III co-funded by the European Union and ERDF A way of making Europe (grant numbers PI20/00563, PI20/00711, PI20/00924, P20/00988, PI23/00028, PI23/00129, PI23/01032, PI23/00165 and also PI23/00191), and by the European Union through the Horizon Europe Framework Programme (eprObes project, grant number GA 101080219).
 
-
 <p align="center">
-  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/conserjeria_universidad.png" width="200"/>
   <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/andalucia.png" width="200"/>
   <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/FIS23.png" width="200"/>
-  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/FIS20.png" width="200"/>
-
 </p>
 
 <p align="center">
-    <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/EU_grant.png" width="200"/>
-      <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/eprObes.png" width="200"/>
+  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/conserjeria_universidad.png" width="200"/>
+  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/FIS20.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/EU_grant.png" width="200"/>
+  <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/img/eprObes.png" width="200"/>
 </p>
