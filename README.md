@@ -3,7 +3,10 @@
 
 ## Overview
 
-This repository provides essential information about ObMetrics, a free Shiny app designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. Please note, it is part of a manuscript that is being prepared for submission to a scientific journal. The app is in **beta**, and ongoing improvements are being made based on feedback from users.
+This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. The app is part of a manuscript submitted to a scientific journal and is under continuous development. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality.
+
+
+
 
 ## Usage
 
@@ -40,10 +43,6 @@ The development team behind **ObMetrics** is committed to ongoing improvements a
 3. **Survey**: Help us improve by completing a brief [usability](<https://forms.gle/t87LZpL2hBX72uQK9>) survey after using the app.
 
 Contributions in the form of suggestions for new **reference tables**, additional **features**, or other **enhancements** are also welcome. If you are a healthcare professional or researcher with specific needs, we invite you to share your thoughts.
-
-## Citation 
-
-If you use ObMetrics in your research, please cite it as follows:
 
 
 ## License
