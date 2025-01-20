@@ -16,7 +16,7 @@ The **ObMetrics app** is accessible from any modern web browser. You can launch 
 
 Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user. The specific inputs needed for ObMetrics, along with their units, are listed in the following table. 
 
-<img src="./img/inputs.png" width="250"/>
+<img src="./img/inputs.png" width="800"/>
 
 ## Quick start
 
