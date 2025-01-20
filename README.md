@@ -6,8 +6,6 @@
 This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. The app is part of a manuscript submitted to a scientific journal and is under continuous development. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality.
 
 
-
-
 ## Usage
 
 The **ObMetrics app** is accessible from any modern web browser. You can launch the application by clicking the following link or scanning the QR code:
@@ -16,9 +14,11 @@ The **ObMetrics app** is accessible from any modern web browser. You can launch 
 
 <img src="./img/QR.png" width="250"/>
 
-Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user.
+Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user. The specific inputs needed for ObMetrics, along with their units, are listed in the following table. 
 
-## Quick Start
+<img src="./img/inputs.png" width="250"/>
+
+## Quick start
 
 1.  Open the web app using the link above.
 2.  Input patient data into the relevant fields.
@@ -32,9 +32,21 @@ Once the app is loaded, users can input clinical and anthropometric data, such a
 
 ## Documentation
 
-All supporting documentation, including the **User Manual** and **Tutorial**, can be found within the application itself under the "About" section. The User Guide provides step-by-step instructions on how to input data and interpret the results, as well as explanations for the different **definitions** and **reference tables**.
+All supporting documentation, including the **User Manual** and **Tutorial**, can be found within the application itself under the "About" section. The User Guide provides step-by-step instructions on how to input data and interpret the results, as well as explanations for the different **definitions** and **reference tables**. Also, the User Guide can be found in this [webpage](https://github.com/AlvaroTorresMartos/ObMetrics/blob/master/Documentation.pdf).
 
-## Feedback and Contributions
+
+
+## Supplementary material
+
+The supplementary materials for the manuscript (currently under review) that introduces ObMetrics are hosted on this [webpage](https://github.com/AlvaroTorresMartos/ObMetrics/tree/main/supplementary_material). These documents include additional methodological details and other supporting information to complement the main text of the paper.
+
+## Software and beta testing 
+
+This app has been thoroughly validated through standard software engineering testing methodologies. This process included unit testing, integration testing, system testing, and regression testing to ensure the correctness, reliability, and stability of the code. Additionally, the application was evaluated by a group of expert beta testers from the relevant field, who provided critical insights into its functionality and usability in real-world scenarios. Their feedback was incorporated to optimize performance and ensure the software meets the specific needs and expectations of its intended users.
+
+A dedicated usability assessment was conducted using the following questionnaire: [Usability Form](<https://forms.gle/t87LZpL2hBX72uQK9>).
+
+## Feedback and contributions
 
 The development team behind **ObMetrics** is committed to ongoing improvements and updates to the tool. We encourage users to report any issues or suggest new features via:
 
@@ -43,7 +55,6 @@ The development team behind **ObMetrics** is committed to ongoing improvements a
 3. **Survey**: Help us improve by completing a brief [usability](<https://forms.gle/t87LZpL2hBX72uQK9>) survey after using the app.
 
 Contributions in the form of suggestions for new **reference tables**, additional **features**, or other **enhancements** are also welcome. If you are a healthcare professional or researcher with specific needs, we invite you to share your thoughts.
-
 
 ## License
 
