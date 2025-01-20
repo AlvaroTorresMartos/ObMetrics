@@ -16,6 +16,23 @@ The **ObMetrics app** is accessible from any modern web browser. You can launch 
 
 Once the app is loaded, users can input clinical and anthropometric data, such as waist circumference, blood pressure, lipids, glucose, and insulin levels. The app will automatically compute relevant outcomes based on the definitions selected by the user. The specific inputs needed for ObMetrics, along with their units, are listed below: 
 
+| **Field**             | **Description**                                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| **ID**                | Unique identifier for each participant.                                                        |
+| **decimal_age**       | Age in years, expressed as a decimal.                                                           |
+| **sex**               | Coded as 0 for males and 1 for females.                                                         |
+| **height_m**          | Height in meters.                                                                              |
+| **weight_kg**         | Weight in kilograms.                                                                            |
+| **wc_cm**             | Waist circumference (WC) in centimeters.                                                        |
+| **dbp_mmHg**          | Diastolic blood pressure (DBP) in millimeters of mercury.                                       |
+| **sbp_mmHg**          | Systolic blood pressure (SBP) in millimeters of mercury.                                        |
+| **tag_mg_dl**         | Triglycerides (TAG) in milligrams per deciliter (mg/dL).                                        |
+| **hdlc_mg_dl**        | High-density lipoprotein cholesterol (HDL-C) in milligrams per deciliter (mg/dL).               |
+| **glucose_mg_dl**     | Glucose in milligrams per deciliter (mg/dL).                                                    |
+| **insulin_microU_ml** | Insulin in micro-international units per milliliter (μU/mL).                                    |
+| **tanner_index**      | Tanner stage, coded as 1 for prepubertal, and 2–3–4–5 for pubertal stages.                      |
+
+
 - ID: Unique identifier for each participant.
 - decimal_age: Age in years, expressed as a decimal.
 - sex: Coded as 0 for males and 1 for females.
