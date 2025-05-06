@@ -3,16 +3,19 @@
 
 ## Overview
 
-This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. The app is part of an article accepted in Pediatric Obesity (Torres-Martos Á et al. 2025) and is under continuous development. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality.
+This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality. The app is part of an article accepted in Pediatric Obesity and is under continuous development. Thus, if you use ObMetrics, cite us using the following reference: 
+
+- **Torres-Martos Á, Requena F, López-Rodríguez G, et al. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
 
 The manuscript is open access and can be freely accessed through the following link:
 
 - **Article**:
   - **Journal Website**: [https://onlinelibrary.wiley.com/doi/full/10.1111/ijpo.70016](https://onlinelibrary.wiley.com/doi/full/10.1111/ijpo.70016)
+  - **University of Granada Institutional Repository (DIGIBUG)**: https://digibug.ugr.es/handle/10481/103956
   
 <div align="center">
-  <img src="./img/graphical_abstract.jpg" alt="Figure 1: Graphical abstract"/>
-  <p><strong>Figure 1.</strong> Graphical abstract. Overview of the necessity for standardised MetS definitions, with particular attention to conflicting definitions. The central workflow outlines the four main steps: Data input, selection of MetS definitions, visualisation of results, and data export. The case study section demonstrates differences in MetS prevalence across Hispanic-American and Hispanic-European cohorts, highlighting significant ethnic-specific variations in cardiometabolic profiles. This highlights the need for ethnically tailored assessment tools. ObMetrics provides a user-friendly interface, designed to standardise MetS evaluation, with the potential to enhance the comparability and rigor of paediatric obesity research.</p>
+  <img src="./img/graphical_abstract.jpg" alt="Graphical abstract"/>
+  <p><strong>Graphical abstract.</strong> Overview of the necessity for standardised MetS definitions, with particular attention to conflicting definitions. The central workflow outlines the four main steps: Data input, selection of MetS definitions, visualisation of results, and data export. The case study section demonstrates differences in MetS prevalence across Hispanic-American and Hispanic-European cohorts, highlighting significant ethnic-specific variations in cardiometabolic profiles. This highlights the need for ethnically tailored assessment tools. ObMetrics provides a user-friendly interface, designed to standardise MetS evaluation, with the potential to enhance the comparability and rigor of paediatric obesity research.</p>
 </div>
 
 ## Usage
@@ -62,9 +65,11 @@ All supporting documentation, including the **User Manual** and **Tutorial**, ca
 
 
 
-## Supplementary material
+<!--## Supplementary material
 
 The supplementary materials for the manuscript (currently under review) that introduces ObMetrics are hosted on this [webpage](https://github.com/AlvaroTorresMartos/ObMetrics/tree/main/supplementary_material). These documents include additional methodological details and other supporting information to complement the main text of the paper.
+
+-->
 
 ## Software and beta testing 
 
