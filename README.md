@@ -3,8 +3,17 @@
 
 ## Overview
 
-This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. The app is part of a manuscript submitted to a scientific journal and is under continuous development. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality.
+This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. The app is part of an article accepted in Pediatric Obesity (Torres-Martos Á et al. 2025) and is under continuous development. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality.
 
+The manuscript is open access and can be freely accessed through the following link:
+
+- **Article**:
+  - **Journal Website**: [https://onlinelibrary.wiley.com/doi/full/10.1111/ijpo.70016](https://onlinelibrary.wiley.com/doi/full/10.1111/ijpo.70016)
+  
+<div align="center">
+  <img src="./img/graphical_abstract.jpg" alt="Figure 1: Graphical abstract"/>
+  <p><strong>Figure 1.</strong> Graphical abstract. Overview of the necessity for standardised MetS definitions, with particular attention to conflicting definitions. The central workflow outlines the four main steps: Data input, selection of MetS definitions, visualisation of results, and data export. The case study section demonstrates differences in MetS prevalence across Hispanic-American and Hispanic-European cohorts, highlighting significant ethnic-specific variations in cardiometabolic profiles. This highlights the need for ethnically tailored assessment tools. ObMetrics provides a user-friendly interface, designed to standardise MetS evaluation, with the potential to enhance the comparability and rigor of paediatric obesity research.</p>
+</div>
 
 ## Usage
 
@@ -78,6 +87,31 @@ Contributions in the form of suggestions for new **reference tables**, additiona
 This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). For full details, please see the LICENSE.md file in this repository.
 
 <img src="https://coblabugr.shinyapps.io/obmetrics/_w_610a1c25/ccbyncnd.png"  width="100"/>
+
+## Citation
+
+If ObMetrics has contributed to your research, we kindly ask that you cite our work in your publications. Proper citation helps acknowledge the efforts behind this project and supports further development.
+
+Please use the following citation:
+
+**Torres-Martos Á, Requena F, López-Rodríguez G, et al. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
+
+Alternatively, you can use the following BibTeX entry for your reference manager:
+
+```bibtex
+@article{TorresMartos2025,
+  title = {ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity},
+  ISSN = {2047-6310},
+  url = {http://dx.doi.org/10.1111/ijpo.70016},
+  DOI = {10.1111/ijpo.70016},
+  journal = {Pediatric Obesity},
+  publisher = {Wiley},
+  author = {Torres‐Martos,  Álvaro and Requena,  Francisco and López‐Rodríguez,  Guadalupe and Hernández‐Cabrera,  Jhazmin and Galván,  Marcos and Solís‐Pérez,  Elizabeth and Romo‐Tello,  Susana and Jasso‐Medrano,  José Luis and Vilchis‐Gil,  Jenny and Kl\"{u}nder‐Kl\"{u}nder,  Miguel and Martínez‐Andrade,  Gloria and Enríquez,  María Elena Acosta and Aristizabal,  Juan Carlos and Ramírez‐Mena,  Alberto and Stratakis,  Nikos and Bustos‐Aibar,  Mireia and Gil,  Ángel and Gil‐Campos,  Mercedes and Bueno,  Gloria and Leis,  Rosaura and Alcalá‐Fdez,  Jesús and Aguilera,  Concepción María and Anguita‐Ruiz,  Augusto},
+  year = {2025},
+  month = may, 
+  pages = {e70016}
+}
+```
 
 
 ## Funding 
