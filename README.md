@@ -5,7 +5,7 @@
 
 This repository provides essential information about ObMetrics, a free and user-friendly Shiny app currently in its **alpha version**, designed to streamline the calculation of **outcomes** related to **Metabolic Syndrome** in **pediatric populations**. As an alpha release, it is being actively improved based on user feedback to ensure its reliability and functionality. The app is part of an article accepted in Pediatric Obesity and is under continuous development. Thus, if you use ObMetrics, cite us using the following reference: 
 
-- **Torres-Martos Á, Requena F, López-Rodríguez G, et al. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
+- **Torres-Martos Á, Requena F, López-Rodríguez G, Hernández-Cabrera J, Galván M, Solís-Pérez E, Romo-Tello S, Jasso-Medrano JL, Vilchis-Gil J, Klünder-Klünder M, Martínez-Andrade G, Enríquez MEA, Aristizabal JC, Ramírez-Mena A, Stratakis N, Bustos-Aibar M, Gil Á, Gil-Campos M, Bueno G, Leis R, Alcalá-Fdez J, Aguilera CM, Anguita-Ruiz A. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
 
 The manuscript is open access and can be freely accessed through the following link:
 
@@ -99,7 +99,7 @@ If ObMetrics has contributed to your research, we kindly ask that you cite our w
 
 Please use the following citation:
 
-**Torres-Martos Á, Requena F, López-Rodríguez G, et al. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
+**Torres-Martos Á, Requena F, López-Rodríguez G, Hernández-Cabrera J, Galván M, Solís-Pérez E, Romo-Tello S, Jasso-Medrano JL, Vilchis-Gil J, Klünder-Klünder M, Martínez-Andrade G, Enríquez MEA, Aristizabal JC, Ramírez-Mena A, Stratakis N, Bustos-Aibar M, Gil Á, Gil-Campos M, Bueno G, Leis R, Alcalá-Fdez J, Aguilera CM, Anguita-Ruiz A. ObMetrics: A Shiny app to assist in metabolic syndrome assessment in paediatric obesity. Pediatric Obesity. 2025;e70016. doi:10.1111/ijpo.70016**
 
 Alternatively, you can use the following BibTeX entry for your reference manager:
 
