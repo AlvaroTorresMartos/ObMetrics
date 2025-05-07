@@ -113,7 +113,7 @@ Alternatively, you can use the following BibTeX entry for your reference manager
   publisher = {Wiley},
   author = {Torres‐Martos,  Álvaro and Requena,  Francisco and López‐Rodríguez,  Guadalupe and Hernández‐Cabrera,  Jhazmin and Galván,  Marcos and Solís‐Pérez,  Elizabeth and Romo‐Tello,  Susana and Jasso‐Medrano,  José Luis and Vilchis‐Gil,  Jenny and Kl\"{u}nder‐Kl\"{u}nder,  Miguel and Martínez‐Andrade,  Gloria and Enríquez,  María Elena Acosta and Aristizabal,  Juan Carlos and Ramírez‐Mena,  Alberto and Stratakis,  Nikos and Bustos‐Aibar,  Mireia and Gil,  Ángel and Gil‐Campos,  Mercedes and Bueno,  Gloria and Leis,  Rosaura and Alcalá‐Fdez,  Jesús and Aguilera,  Concepción María and Anguita‐Ruiz,  Augusto},
   year = {2025},
-  month = may, 
+  month = {may}, 
   pages = {e70016}
 }
 ```
